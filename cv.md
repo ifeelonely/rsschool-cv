@@ -28,4 +28,4 @@ function anagrams(word, words) {
 ```
 ## Languages: 
 - English - Intermediate/Upper-intermediate;
-- Russian - Native;
+- Russian - Native;.
