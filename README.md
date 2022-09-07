@@ -1,1 +1,1 @@
-https://ifeelonely.github.io/rsschool-cv/cvf
+https://ifeelonely.github.io/rsschool-cv/cv
